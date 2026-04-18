@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📍 I´m a Developer Akademie student from Hannover..<br>✔️ Ful</p>
+<p align="left">📍 I´m a Developer Akademie student from Hannover..<br>✔️ Full focused</p>
 
 ###
 
